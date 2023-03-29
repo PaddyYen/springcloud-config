@@ -1,1 +1,2 @@
-
+config:
+  info: "master branch,springcloud-config/confid-dev.yml version=1"
